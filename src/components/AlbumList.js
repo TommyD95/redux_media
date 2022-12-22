@@ -33,7 +33,7 @@ function AlbumList({ user }) {
         <div>
         <div className="m-2 flex flex-row items-center justify-between">
             <h5 className=" font-bold" >album for {user.name}     
-             <Button loading={results.loading} onClick={handleAddAlbum}>+ add album</Button>
+             <Button loading={results.isLoading} onClick={handleAddAlbum}>+ add album</Button>
              </h5>
 
             {<div>{content}</div>

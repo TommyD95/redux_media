@@ -11,6 +11,10 @@
     {
       "name": "Ms. Janie McCullough",
       "id": 767
+    },
+    {
+      "name": "Ralph Mosciski",
+      "id": 886
     }
   ],
   "albums": [
@@ -18,7 +22,63 @@
       "userId": 153,
       "title": "Luxurious Plastic Bacon",
       "id": 1
+    },
+    {
+      "userId": 767,
+      "title": "Recycled Concrete Hat",
+      "id": 2
+    },
+    {
+      "userId": 767,
+      "title": "Generic Metal Towels",
+      "id": 3
+    },
+    {
+      "userId": 237,
+      "title": "Handcrafted Granite Pants",
+      "id": 4
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=69103",
+      "id": 29
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=79970",
+      "id": 30
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=12347",
+      "id": 31
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15123",
+      "id": 32
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=86109",
+      "id": 33
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=44200",
+      "id": 34
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=41919",
+      "id": 35
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=66986",
+      "id": 36
+    }
+  ]
 }
