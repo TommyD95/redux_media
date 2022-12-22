@@ -1,10 +1,24 @@
 {
   "users": [
     {
-      "name": "Jill Quitzon IV",
-      "id": 894
+      "name": "Gary Stracke PhD",
+      "id": 153
+    },
+    {
+      "name": "Tomas Zulauf",
+      "id": 237
+    },
+    {
+      "name": "Ms. Janie McCullough",
+      "id": 767
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "userId": 153,
+      "title": "Luxurious Plastic Bacon",
+      "id": 1
+    }
+  ],
   "photos": []
 }

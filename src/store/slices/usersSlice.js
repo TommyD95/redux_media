@@ -49,7 +49,6 @@ const userSlice=createSlice({
             state.data=state.data.filter((user)=>{
                 return user.id !== action.payload.id;
             })
-            console.log(action);
         });
         builder.addCase(removeUser.rejected,(state,action)=>{
             state.error=action.error;
